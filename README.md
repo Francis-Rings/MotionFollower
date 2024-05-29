@@ -10,16 +10,17 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://francis-rings.github.io/MotionFollower/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18830-b31b1b.svg)](https://arxiv.org/abs/)
 
 <table class="center" style="width: 100%;">
+  
+  <tr>
+    <td colspan="4" style="text-align:center;">
+      <video muted="" autoplay="autoplay" loop="loop" src="https://github.com/Francis-Rings/MotionFollower/assets/12442237/efadf695-d927-49fe-887d-5f93cf8747b4" style="width: 100%; height: auto;"></video>
+    </td>
+  </tr>
   <tr>
     <td width="25%" style="text-align:center;"><b>Source</b></td>
     <td width="25%" style="text-align:center;"><b>Target</b></td>
     <td width="25%" style="text-align:center;"><b>MotionEditor</b></td>
     <td width="25%" style="text-align:center;"><b>MotionFollower</b></td>
-  </tr>
-  <tr>
-    <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src="https://github.com/Francis-Rings/MotionFollower/assets/12442237/efadf695-d927-49fe-887d-5f93cf8747b4" style="width: 100%; height: auto;"></video>
-    </td>
   </tr>
 </table>
 
