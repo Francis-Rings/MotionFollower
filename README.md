@@ -18,7 +18,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
   </tr>
   <tr>
     <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src="./assets/15.mp4" style="width: 100%; height: auto;"></video>
+      <video muted="" autoplay="autoplay" loop="loop" src="https://github.com/Francis-Rings/MotionFollower/assets/12442237/efadf695-d927-49fe-887d-5f93cf8747b4" style="width: 100%; height: auto;"></video>
     </td>
   </tr>
 </table>
@@ -38,9 +38,6 @@ Concretely, we enforce several consistency regularizers and losses during the sc
 The resulting gradients thus inject appropriate guidance to the intermediate latents, forcing the model to preserve the original background details and protagonists' appearances without interfering with the motion modification.
 Experiments demonstrate the competitive motion editing ability of MotionFollower qualitatively and quantitatively. Compared with MotionEditor, the most advanced motion editing model, MotionFollower achieves an approximately 80% reduction in GPU memory while delivering superior motion editing performance and exclusively supporting large camera movements and actions.
 
-
-
-https://github.com/Francis-Rings/MotionFollower/assets/12442237/efadf695-d927-49fe-887d-5f93cf8747b4
 
 
 ## Contact
