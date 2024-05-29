@@ -39,6 +39,10 @@ The resulting gradients thus inject appropriate guidance to the intermediate lat
 Experiments demonstrate the competitive motion editing ability of MotionFollower qualitatively and quantitatively. Compared with MotionEditor, the most advanced motion editing model, MotionFollower achieves an approximately 80% reduction in GPU memory while delivering superior motion editing performance and exclusively supporting large camera movements and actions.
 
 
+
+https://github.com/Francis-Rings/MotionFollower/assets/12442237/efadf695-d927-49fe-887d-5f93cf8747b4
+
+
 ## Contact
 If you have any suggestions or find our work helpful, feel free to contact us
 
