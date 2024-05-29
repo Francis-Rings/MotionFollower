@@ -17,7 +17,7 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
     </td>
   </tr>
   <tr>
-    <td width="25%" style="text-align:center;"><b>&nbsp; &nbsp; Source</b></td>
+    <td width="25%" style="text-align:center;"><b>&nbsp; Source</b></td>
     <td width="25%" style="text-align:center;"><b>&nbsp; Target</b></td>
     <td width="25%" style="text-align:center;"><b>MotionEditor</b></td>
     <td width="25%" style="text-align:center;"><b>MotionFollower</b></td>
