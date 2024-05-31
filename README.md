@@ -7,7 +7,7 @@ This repository is the official implementation of **MotionFollower: Editing Vide
 Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zihao Zhang, Sicheng Xie, [Zhi-Qi Cheng](https://scholar.google.com/citations?user=uB2He2UAAAAJ), [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/), [Xintong Han](https://xthan.github.io/), [Zuxuan Wu](https://zxwu.azurewebsites.net/), [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=zh-CN)
 <br/>
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://francis-rings.github.io/MotionFollower/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18830-b31b1b.svg)](https://arxiv.org/abs/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://francis-rings.github.io/MotionFollower/) [![arXiv](https://img.shields.io/badge/arXiv-2311.18830-b31b1b.svg)](https://arxiv.org/abs/2405.20325)
 
 <table class="center" style="width: 100%;">
   
@@ -52,7 +52,7 @@ If you find our work useful, please consider citing it:
 @article{tu2024motionfollower,
   title={MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion},
   author={Shuyuan Tu and Qi Dai and Zihao Zhang and Sicheng Xie and Zhi-Qi Cheng and Chong Luo and Xintong Han and Zuxuan Wu and Yu-Gang Jiang},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2405.20325},
   year={2024}
 }
 ```
