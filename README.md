@@ -65,7 +65,7 @@ python inference-sde.py --config /path/configs/inference/inferece_sde.yaml --vid
 ```
 For case-k[k=6,7]:
 ```bash
-python inference-sde.py --config /path/configs/inference/inferece_sde.yaml --video_root ./configs/inference/case-i/source_images --pose_root ./configs/inference/case-i/target_aligned_poses --ref_pose_root ./configs/inference/case-i/source_poses --source_mask_root ./configs/inference/case-i/source_masks --target_mask_root ./configs/inference/case-i/predicted_masks --camera True
+python inference-sde.py --config /path/configs/inference/inferece_sde.yaml --video_root ./configs/inference/case-k/source_images --pose_root ./configs/inference/case-k/target_aligned_poses --ref_pose_root ./configs/inference/case-k/source_poses --source_mask_root ./configs/inference/case-k/source_masks --target_mask_root ./configs/inference/case-k/predicted_masks --camera True
 ```
 If the source image file extension is png, we need to add --suffix png in the command line.
 
