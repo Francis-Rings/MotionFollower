@@ -78,8 +78,8 @@ If you find our work useful, please consider citing it:
 
 ```
 @article{tu2024motionfollower,
-  title={MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion},
-  author={Shuyuan Tu and Qi Dai and Zihao Zhang and Sicheng Xie and Zhi-Qi Cheng and Chong Luo and Xintong Han and Zuxuan Wu and Yu-Gang Jiang},
+  title={Motionfollower: Editing video motion via lightweight score-guided diffusion},
+  author={Tu, Shuyuan and Dai, Qi and Zhang, Zihao and Xie, Sicheng and Cheng, Zhi-Qi and Luo, Chong and Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang},
   journal={arXiv preprint arXiv:2405.20325},
   year={2024}
 }
