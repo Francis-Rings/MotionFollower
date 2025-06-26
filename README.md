@@ -33,7 +33,8 @@ Shuyuan Tu, [Qi Dai](https://scholar.google.com/citations?user=NSJY12IAAAAJ), Zi
 </p>
 
 # News
-- :star2: **[June, 2024]** We release the inference code of MotionFollower. The codes of training details, our proposed mask prediction model and data preprocessing details will be available to the public as soon as possible. Please stay tuned!
+* `[2025-6-26]`:🔥 MotionFollower is accepted by ICCV2025🎉🎉🎉.
+* `[2024-6-21]`:🔥 We release the inference code of MotionFollower. The codes of training details, our proposed mask prediction model and data preprocessing details will be available to the public as soon as possible. Please stay tuned!
 
 
 ## Abstract
